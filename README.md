@@ -5,8 +5,8 @@ This repository provides hands-on, self-learning notebooks for starting to use P
 /Notebooks_Exercises (Jupyter notebooks including unsolved exercises) <br>
 /Notebooks_Solutions (Jupyter notebooks including exercises with solutions) <br>
 /Images (images loaded in the Jupyter notebooks including the Python mind map) <br>
-/Data (datasets loaded in the Jupyter notebooks)
-Data_References.txt (provides references for the datasets included in the /Data folder)
+/Data (datasets loaded in the Jupyter notebooks) <br>
+Data_References.txt (provides references for the datasets included in the /Data folder) <br>
 SETUP.md (orientation for Python installation and environment management)
 
 >About the project
